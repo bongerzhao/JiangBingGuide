@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>姜饼UiLibrary</title>
+    <description>应用于Sketch的姜饼控件库</description>
+    <link>https://github.com/bongerzhao/JiangBingGuide</link>
+    <image>
+        <url>https://github.com/bongerzhao/JiangBingGuide/blob/master/Library_Cover.png</url>
+        <title>...</title>
+        <link>...</link>
+    </image>
+    <generator>Sketch</generator>
+    <lastBuildDate>[UTC Time]</lastBuildDate>
+    <language>en</language>
+    <item>
+      <title>SketchLibraryAddress</title>
+      <pubDate>[UTC Time]</pubDate>
+      <enclosure url="https://github.com/bongerzhao/JiangBingGuide/blob/master/%E5%A7%9C%E9%A5%BCUI%20Library.sketch" sparkle:version="[version]" length="..." type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
