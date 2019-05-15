@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title><![CDATA[JBUILibrary]]></title>
-      <description><![CDATA[JBUILibrary]]></description>
-      <link>https://github.com/bongerzhao/JiangBingGuide/blob/master</link>
-      <image>
-        <url>https://github.com/bongerzhao/JiangBingGuide/blob/master/Library_Cover.png</url>
-        <title>JBUILibrary</title>
-        <link>https://github.com/bongerzhao/JiangBingGuide/blob/master/Library_Cover.png</link>
-      </image>
-      <generator>Sketch</generator>
-      <lastBuildDate>Wed, 15 May 2019 10:01:54 GMT</lastBuildDate>
-      <language><![CDATA[en]]></language>
-      <item>
-        <title><![CDATA[JBUILibrary]]></title>
-        <description><![CDATA[JBUILibrary]]></description>
-        <guid isPermaLink="false">5700175d-c4fc-4b09-a850-766d578d7240</guid>
-        <pubDate>Thu, 15 Mar 2018 13:43:21 +0000</pubDate>
-        <link>https://github.com/bongerzhao/JiangBingGuide/blob/master</link>
-        <enclosure url="https://raw.githubusercontent.com/bongerzhao/JiangBingGuide/master/JBUILibrary.sketch" length="1004538" type="application/octet-stream" sparkle:version="1"/>
-      </item>
-    </channel>
-  </rss>
-  
+    <title>My Sketch Library</title>
+    <description>My Sketch Library</description>
+    <image>
+      <url></url>
+      <title>My Sketch Library</title>
+    </image>
+    <generator>Sketch</generator>
+    <item>
+      <title>My Sketch Library</title>
+      <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bongerzhao/JiangBingGuide/master/JBUILibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+    </item>
+  </channel>
+</rss>
