@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>姜饼UiLibrary</title>
-    <description>应用于Sketch的姜饼控件库</description>
-    <link>https://github.com/bongerzhao/JiangBingGuide</link>
+    <description>姜饼UiLibrary</description>
     <image>
-        <url>https://github.com/bongerzhao/JiangBingGuide/blob/master/Library_Cover.png</url>
-        <title>...</title>
-        <link>...</link>
+      <url>https://github.com/bongerzhao/JiangBingGuide/blob/master/Library_Cover.png</url>
+      <title>UILibrary</title>
     </image>
     <generator>Sketch</generator>
-    <lastBuildDate>[UTC Time]</lastBuildDate>
-    <language>en</language>
     <item>
-      <title>SketchLibraryAddress</title>
-      <pubDate>[UTC Time]</pubDate>
-      <enclosure url="https://github.com/bongerzhao/JiangBingGuide/blob/master/%E5%A7%9C%E9%A5%BCUI%20Library.sketch" sparkle:version="[version]" length="..." type="application/octet-stream" />
+      <title>姜饼UiLibrary</title>
+      <pubDate>Wed, 15 May 2019 17:01:04 +0000</pubDate>
+      <enclosure url="https://github.com/bongerzhao/JiangBingGuide/blob/master/%E5%A7%9C%E9%A5%BCUI%20Library.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
