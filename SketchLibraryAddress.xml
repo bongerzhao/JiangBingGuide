@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>姜饼UiLibrary</title>
-    <description>姜饼UiLibrary</description>
+    <title>JBUILibrary</title>
+    <description>JBUILibrary</description>
     <image>
       <url>https://github.com/bongerzhao/JiangBingGuide/blob/master/Library_Cover.png</url>
       <title>UILibrary</title>
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>姜饼UiLibrary</title>
+      <title>JBUILibrary</title>
       <pubDate>Wed, 15 May 2019 17:01:04 +0000</pubDate>
-      <enclosure url="https://github.com/bongerzhao/JiangBingGuide/blob/master/%E5%A7%9C%E9%A5%BCUI%20Library.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https://github.com/bongerzhao/JiangBingGuide/blob/master/JBUILibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
